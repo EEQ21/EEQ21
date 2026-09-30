@@ -2,7 +2,44 @@
 
 Developer focused on desktop applications and personal projects.
 
-Linux enthusiast. Favorite distros: **Debian** and **Arch** (Hyprland).
+## Linux
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A33846?logo=debian&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?logo=hyprland&logoColor=000000)
+
+Linux enthusiast. Favorite distros:
+
+<table>
+  <tr>
+    <td width="52" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" height="40" alt="Debian" />
+    </td>
+    <td>
+      <b>Debian</b><br/>
+      Stable and dependable when I want a solid base.
+    </td>
+  </tr>
+  <tr>
+    <td width="52" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-plain.svg" width="40" height="40" alt="Arch Linux" />
+    </td>
+    <td>
+      <b>Arch Linux</b><br/>
+      Rolling release daily driver.
+    </td>
+  </tr>
+  <tr>
+    <td width="52" align="center">
+      <img src="https://cdn.simpleicons.org/hyprland/58E1FF" width="40" height="40" alt="Hyprland" />
+    </td>
+    <td>
+      <b>Hyprland</b><br/>
+      Wayland compositor on Arch.
+    </td>
+  </tr>
+</table>
 
 ## Learning
 
@@ -35,6 +72,9 @@ Linux enthusiast. Favorite distros: **Debian** and **Arch** (Hyprland).
 
 ## Interests
 
-* 💻 Software Development
-* 🖥️ Desktop Applications
-* 📖 Open Source
+| | |
+| :--- | :--- |
+| 💻 | Software development |
+| 🖥️ | Desktop applications |
+| 🐧 | Linux · Debian · Arch · Hyprland |
+| 📖 | Open source |
