@@ -2,111 +2,37 @@
 
 Developer focused on desktop applications and personal projects.
 
-## Learning
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Learning**
 
 ![C++](https://img.shields.io/badge/C%2B%2B-Learning-blue?logo=c%2B%2B&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-Learning-339933?logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-Learning-000000?logo=nextdotjs&logoColor=white)
 
-## Building
+**Building**
 
-<table>
-  <tr>
-    <td width="52" align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-    </td>
-    <td>
-      <b><a href="https://github.com/EEQ21/file-host">Fike (file-host)</a></b><br/>
-      Minimal anonymous file hosting. Upload a file, get a share link. No accounts.
-    </td>
-  </tr>
-  <tr>
-    <td width="52" align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />
-    </td>
-    <td>
-      <b><a href="https://github.com/EEQ21/offline-spotify">Offline Spotify</a></b><br/>
-      Offline Spotify-style player with playlist downloader.
-    </td>
-  </tr>
-</table>
+<b><a href="https://github.com/EEQ21/file-host">Fike (file-host)</a></b> — minimal anonymous uploads & share links<br/>
+<b><a href="https://github.com/EEQ21/offline-spotify">Offline Spotify</a></b> — offline player with playlist downloader
 
-## Linux
+</td>
+<td valign="top" width="50%">
+
+**Linux**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A33846?logo=debian&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?logo=hyprland&logoColor=000000)
 
-Linux enthusiast. Favorite distros:
+Debian for stability · Arch + Hyprland daily driver
 
-<table>
-  <tr>
-    <td width="52" align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" height="40" alt="Debian" />
-    </td>
-    <td>
-      <b>Debian</b><br/>
-      Stable and dependable when I want a solid base.
-    </td>
-  </tr>
-  <tr>
-    <td width="52" align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-plain.svg" width="40" height="40" alt="Arch Linux" />
-    </td>
-    <td>
-      <b>Arch Linux</b><br/>
-      Rolling release daily driver.
-    </td>
-  </tr>
-  <tr>
-    <td width="52" align="center">
-      <img src="https://cdn.simpleicons.org/hyprland/58E1FF" width="40" height="40" alt="Hyprland" />
-    </td>
-    <td>
-      <b>Hyprland</b><br/>
-      Wayland compositor on Arch.
-    </td>
-  </tr>
-</table>
+**Interests**
 
-## Interests
+Software development · desktop apps · Linux · open source
 
-<table>
-  <tr>
-    <td width="52" align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="Software development" />
-    </td>
-    <td>
-      <b>Software development</b><br/>
-      Building tools and apps end to end.
-    </td>
-  </tr>
-  <tr>
-    <td width="52" align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="40" height="40" alt="Desktop applications" />
-    </td>
-    <td>
-      <b>Desktop applications</b><br/>
-      Native-feeling UIs and local-first software.
-    </td>
-  </tr>
-  <tr>
-    <td width="52" align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-    </td>
-    <td>
-      <b>Linux</b><br/>
-      Debian, Arch, and Hyprland.
-    </td>
-  </tr>
-  <tr>
-    <td width="52" align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="Open source" />
-    </td>
-    <td>
-      <b>Open source</b><br/>
-      Sharing code and learning in public.
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
