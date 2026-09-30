@@ -72,9 +72,41 @@ Linux enthusiast. Favorite distros:
 
 ## Interests
 
-| | |
-| :--- | :--- |
-| 💻 | Software development |
-| 🖥️ | Desktop applications |
-| 🐧 | Linux · Debian · Arch · Hyprland |
-| 📖 | Open source |
+<table>
+  <tr>
+    <td width="52" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="Software development" />
+    </td>
+    <td>
+      <b>Software development</b><br/>
+      Building tools and apps end to end.
+    </td>
+  </tr>
+  <tr>
+    <td width="52" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="40" height="40" alt="Desktop applications" />
+    </td>
+    <td>
+      <b>Desktop applications</b><br/>
+      Native-feeling UIs and local-first software.
+    </td>
+  </tr>
+  <tr>
+    <td width="52" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+    </td>
+    <td>
+      <b>Linux</b><br/>
+      Debian, Arch, and Hyprland.
+    </td>
+  </tr>
+  <tr>
+    <td width="52" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="Open source" />
+    </td>
+    <td>
+      <b>Open source</b><br/>
+      Sharing code and learning in public.
+    </td>
+  </tr>
+</table>
