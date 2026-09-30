@@ -2,6 +2,8 @@
 
 Developer focused on desktop applications and personal projects.
 
+Linux enthusiast. Favorite distros: **Debian** and **Arch** (Hyprland).
+
 ## Learning
 
 ![C++](https://img.shields.io/badge/C%2B%2B-Learning-blue?logo=c%2B%2B&logoColor=white)
