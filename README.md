@@ -1,4 +1,4 @@
-# Sync
+# txdrain
 
 Developer focused on desktop applications and personal projects.
 
